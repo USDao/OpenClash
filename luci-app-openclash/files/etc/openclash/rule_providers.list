@@ -8,6 +8,7 @@
 学术网站,ConnersHua,classical,DivineEngine/Profiles/master/Clash/RuleSet/Extra/,Scholar.yaml
 广告规则,ConnersHua,classical,DivineEngine/Profiles/master/Clash/RuleSet/Guard/,Advertising.yaml
 隐私规则合集,ConnersHua,classical,DivineEngine/Profiles/master/Clash/RuleSet/Guard/,Privacy.yaml
+常用隐私规则,ConnersHua,classical,DivineEngine/Profiles/master/Clash/RuleSet/,Unbreak.yaml
 AbemaTV,ConnersHua,classical,DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/,AbemaTV.yaml
 All-4,ConnersHua,classical,DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/,All-4.yaml
 AppStore,ConnersHua,classical,DivineEngine/Profiles/master/Clash/RuleSet/Extra/Apple/,AppStore.yaml
